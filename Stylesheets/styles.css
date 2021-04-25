@@ -1,8 +1,7 @@
 #main-container{
    height: 100vh;
-   background-Color: purple;
 }
 
-.DateInput{
-   border-radius: 10%;  
+.SingleDatePickerInput__withBorder{
+   border-radius: 10px;
 }
